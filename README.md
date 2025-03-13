@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 ###
 # 👨‍💻  About Me
 
-<img align="right" height="200" src="https://file.notion.so/f/f/a1fca0fe-058d-4d5c-84e0-ebb634e2a480/6b59415c-e851-4509-9296-d0a1f0f4530f/3.jpg?table=block&id=1b0e1e91-4b42-8026-b9ae-d3d9c5cbcb38&spaceId=a1fca0fe-058d-4d5c-84e0-ebb634e2a480&expirationTimestamp=1741903200000&signature=W4FDPRVjOtBXv2S4WTdLqWpifexkgpJo55tn9Xu-Sw8&downloadName=3.jpg"  />
+<img align="left" height="180" src="https://file.notion.so/f/f/a1fca0fe-058d-4d5c-84e0-ebb634e2a480/6b59415c-e851-4509-9296-d0a1f0f4530f/3.jpg?table=block&id=1b0e1e91-4b42-8026-b9ae-d3d9c5cbcb38&spaceId=a1fca0fe-058d-4d5c-84e0-ebb634e2a480&expirationTimestamp=1741903200000&signature=W4FDPRVjOtBXv2S4WTdLqWpifexkgpJo55tn9Xu-Sw8&downloadName=3.jpg"  />
 <h5 align="left">안녕하세요!  김덕진입니다. 😄<br>2번의 개발 프로젝트와 5번의 데이터 분석을 경험했습니다.<br>기술의 수평적/수직적 확장 모두 관심이 많습니다 🧐<br><br>🏠 [경기도 오산시](현. 광주광역시)<br>📧 ghaehfdl71@gmail.com<br>✏️ https://blog.naver.com/aattspa<br>📊 <a href=https://data-analytic-portfolio.notion.site/1a4e1e914b42800dad52f922a1cc81c3>데이터분석Portfolio</a></h5>
+
+###
+
+<br/>
 
 ###
 
