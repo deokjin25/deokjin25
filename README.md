@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=만나서&nbsp;반갑습니다&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=만나서%20반갑습니다&fontSize=50)
 
 ###
 # 👨‍💻  About Me
@@ -147,7 +147,10 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deokjin25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=false&order=2&custom_title=Language%20Ratio" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=deokjin25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deokjin25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+
