@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">기술 Stack</h2>
+<h2 align="left">🛠️ 기술 Stack</h2>
 
 <h3 align="left">[FrontEnd]</h3>
 
@@ -46,8 +46,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=black&style=for-the-badge" height="30" alt="storybook logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
   <img width="12" />
@@ -88,24 +86,6 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">[Data]</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
-</div>
-
-###
-
 <h3 align="left">[Tool]</h3>
 
 ###
@@ -124,27 +104,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">더 알아가는 중이에요</h3>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="30" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deokjin25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
