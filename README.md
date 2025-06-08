@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ###
 # 👨‍💻  About Me
 
-<img align="left" height="180" src="https://img.notionusercontent.com/s3/prod-files-secure%2Fa1fca0fe-058d-4d5c-84e0-ebb634e2a480%2F6b59415c-e851-4509-9296-d0a1f0f4530f%2F3.jpg/size/w=420?exp=1748505463&sig=VXC1Ac4jd7uOC73qlfU1dk6LPLgUsydCW5ImT4DzVn4&id=1b0e1e91-4b42-8026-b9ae-d3d9c5cbcb38&table=block"  />
-<h4 align="left">안녕하세요!  김덕진입니다. 😄<br>2번의 개발 프로젝트와 5번의 데이터 분석을 경험했습니다.<br>기술의 수평적/수직적 확장 모두 관심이 많습니다 🧐<br><br>🏠 [경기도 오산시](현. 광주광역시)<br>📧 ghaehfdl71@gmail.com<br>✏️ https://blog.naver.com/aattspa<br>📊 <a href=https://data-analytic-portfolio.notion.site/1a4e1e914b42800dad52f922a1cc81c3>데이터분석Portfolio</a></h5>
+<img align="left" height="180" src="./me.jpg" style="margin-right: 30px;"/>
+<h4 align="left">안녕하세요!  김덕진입니다. 😄<br>4번의 개발 프로젝트와 5번의 데이터 분석을 경험했습니다.<br>기술의 수평적/수직적 확장 모두 관심이 많습니다 🧐<br><br>🏠 [경기도 오산시](현. 광주광역시)<br>📧 ghaehfdl71@gmail.com<br>✏️ https://blog.naver.com/aattspa<br>📊 <a href=https://kdj-portfolio.notion.site/1a4e1e914b42800dad52f922a1cc81c3?pvs=74>데이터분석 Portfolio</a><br>💻<a href=https://kdj-portfolio.notion.site/1bbe1e914b42805aabcdce547733d0a6> 개발 Portfolio</a></h5>
 
 ###
 
