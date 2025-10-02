@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👨‍💻  About Me
 
 <img align="left" height="160" src="./me.jpg" style="margin-right: 30px;"/>
-<h4 align="left">안녕하세요!  김덕진입니다. 😄<br>4번의 개발 프로젝트와 5번의 데이터 분석을 경험했습니다.<br>기술의 수평적/수직적 확장 모두 관심이 많습니다 🧐<br><br>🏠 [경기도 오산시]<br>📧 ghaehfdl71@gmail.com<br>📊 <a href=https://kdj-portfolio.notion.site/1a4e1e914b42800dad52f922a1cc81c3?pvs=74 target="_blank">데이터분석 Portfolio</a>  | ✏️ <a href=https://blog.naver.com/aattspa target="_blank">데이터 분석 Blog </a><br>💻<a href="./portfolio.pdf" target="_blank"> 개발 Portfolio </a>  |  ✏️ <a href=https://velog.io/@dkqrty/posts target="_blank">개발 Blog </a></h5>
+<h4 align="left">안녕하세요!  김덕진입니다. 😄<br>4번의 개발 프로젝트와 5번의 데이터 분석을 경험했습니다.<br>기술의 수평적/수직적 확장 모두 관심이 많습니다 🧐<br><br>🏠 [경기도 오산시]<br>📧 ghaehfdl71@gmail.com<br>📊 <a href=https://kdj-portfolio.notion.site/1a4e1e914b42800dad52f922a1cc81c3?pvs=74 target="_blank">데이터분석 Portfolio</a>  | ✏️ <a href=https://blog.naver.com/aattspa target="_blank">데이터 분석 Blog </a><br>💻<a href="https://deokjin25.github.io/deokjin25/portfolio.pdf" target="_blank"> 개발 Portfolio </a>  |  ✏️ <a href=https://velog.io/@dkqrty/posts target="_blank">개발 Blog </a></h5>
 
 ###
 
