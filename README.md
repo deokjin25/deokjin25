@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://img.shields.io/badge/Model Context Protocol-000000?logo=modelcontextprotocol&logoColor=white&style=for-the-badge" height="30" alt="modelcontextprotocol logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GPT-FFFFFF?logo=openai&logoColor=black&style=for-the-badge" height="30" alt="openai logo"  />
+  <img src="https://img.shields.io/badge/GPT-737373?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="openai logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/claude-D97757?logo=claude&logoColor=white&style=for-the-badge" height="30" alt="claude logo"  />
   <img width="12" />
