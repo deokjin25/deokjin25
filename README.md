@@ -62,7 +62,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
 ![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=Zustand)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![ReactQuery](https://img.shields.io/badge/-React_Query-05122A?style=flat&logo=ReactQuery)&nbsp;
 
 <h3>[Styling]</h3>
@@ -74,6 +73,7 @@
 
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=React)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![Reacthookform](https://img.shields.io/badge/-React_Hook_From-05122A?style=flat&logo=Reacthookform)\
 ![PWA](https://img.shields.io/badge/-PWA-05122A?style=flat&logo=PWA)&nbsp;
