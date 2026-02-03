@@ -1,90 +1,121 @@
-<!--
-**deokjin25/deokjin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=만나서%20반갑습니다&fontSize=50)
 
-###
-# 👨‍💻  About Me
+<h2 align="center">
+  👨‍💻 About Me
+</h2>
 
-<img align="left" height="160" src="./me.jpg" style="margin-right: 30px;"/>
-<h4 align="left">안녕하세요!  김덕진입니다. 😄<br>4번의 개발 프로젝트와 5번의 데이터 분석을 경험했습니다.<br>기술의 수평적/수직적 확장 모두 관심이 많습니다 🧐<br><br>🏠 [경기도 오산시]<br>📧 ghaehfdl71@gmail.com<br>💻<a href="https://deokjin25.github.io/deokjin25/portfolio.pdf" target="_blank"> 개발 Portfolio </a>  |  ✏️ <a href=https://velog.io/@dkqrty/posts target="_blank">개발 Blog </a><br>📊 <a href=https://kdj-portfolio.notion.site/1a4e1e914b42800dad52f922a1cc81c3?pvs=74 target="_blank">데이터분석 Portfolio</a>  | ✏️ <a href=https://blog.naver.com/aattspa target="_blank">데이터 분석 Blog </a></h5>
+<div align="center" style="margin-bottom:40px" >
+  
+  <h3>💡 "정답을 찾을 때까지 디버깅 창을 떠나지 않는 <strong>집요함</strong>을 가진 개발자"</h3>
+  
+  <br/>
 
-###
-
-<br/>
-
-###
-
-<h2 align="left">🛠️ 기술 Stack</h2>
-
-<h3 align="left">[FrontEnd]</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <strong>💎 Clean Code</strong>
+      </td>
+      <td>
+        나만 아는 코드가 아닌 동료가 읽기 쉬운 코드와 설명을 지향합니다.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <strong>♻️ Sustainability</strong>
+      </td>
+      <td>
+        시간이 흐를수록 기술적 부채가 쌓이는 코드가 아닌 기술적 자산이 되는 구조를 설계합니다.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <strong>🔍 Deep Dive</strong>
+      </td>
+      <td>
+        새로운 기술의 '어떻게'보다 '왜'에 집중하며 원리를 이해하고 적용합니다.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <strong>📚 Growth & Share</strong>
+      </td>
+      <td>
+        트러블슈팅 과정을 문서화하여 개인의 성장을 팀의 자산으로 전환합니다.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <strong>🔧 Refactoring</strong>
+      </td>
+      <td>
+        비즈니스 로직 분리와 모듈화를 통해 더 견고한 코드 베이스를 만드는 과정을 즐깁니다.
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
-###
+<!-- 알고리즘 섹션 -->
+<h2 align="center">
+  🏆 Algorithm
+</h2>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextdotjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/reactquery-FF4154?logo=reactquery&logoColor=black&style=for-the-badge" height="30" alt="reactquery logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+<div align="center" style="margin-bottom:40px">
+  <a href="https://solved.ac/profile/dkqrty">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkqrty" alt="Solved.ac 프로필" />
+  </a>
 </div>
 
-###
-
-<h3 align="left">[AI Tool]</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Model Context Protocol-000000?logo=modelcontextprotocol&logoColor=white&style=for-the-badge" height="30" alt="modelcontextprotocol logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GPT-737373?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="openai logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/claude-D97757?logo=claude&logoColor=white&style=for-the-badge" height="30" alt="claude logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub Copilot-6bb761?logo=githubcopilot&logoColor=white&style=for-the-badge" height="30" alt="githubcopilot logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Google Gemini-8E75B2?logo=googlegemini&logoColor=white&style=for-the-badge" height="30" alt="googlegemini logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white&style=for-the-badge" height="30" alt="perplexity logo"  />
-</div>
-
-###
-
-
+<h2 align="center">🛠️ Technical Skills</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deokjin25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deokjin25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<h3>[Language]</h3>
+
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
+
+<h3>[Core]</h3>
+
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
+![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=Zustand)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
+![ReactQuery](https://img.shields.io/badge/-React_Query-05122A?style=flat&logo=ReactQuery)&nbsp;
+
+<h3>[Styling]</h3>
+
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
+![styledcomponents](https://img.shields.io/badge/-styled_components-05122A?style=flat&logo=styledcomponents)&nbsp;
+
+<h3>[Experience]</h3>
+
+![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=React)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
+![Reacthookform](https://img.shields.io/badge/-React_Hook_From-05122A?style=flat&logo=Reacthookform)\
+![PWA](https://img.shields.io/badge/-PWA-05122A?style=flat&logo=PWA)&nbsp;
+![WebSocket](https://img.shields.io/badge/-WebSocket-05122A?style=flat&logo=WebSocket)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=SpringBoot)&nbsp;
+![mysql](https://img.shields.io/badge/-My_SQL-05122A?style=flat&logo=mysql)&nbsp;
+
+
+<h3>[Tools]</h3>
+
+![VScode](https://img.shields.io/badge/-VScode-05122A?style=flat&logo=VScode)&nbsp;
+![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=Cursor)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)\
+![ModelContextProtocol](https://img.shields.io/badge/-MCP-05122A?style=flat&logo=ModelContextProtocol)&nbsp;
+![GithubCopilot](https://img.shields.io/badge/-Github_Copilot-05122A?style=flat&logo=GithubCopilot)&nbsp;
+![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=Claude)&nbsp;
+![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=GoogleGemini)&nbsp;
+![Perplexity](https://img.shields.io/badge/-Perplexity-05122A?style=flat&logo=Perplexity)&nbsp;
+![Grok](https://img.shields.io/badge/-Grok-05122A?style=flat&logo=Grok)&nbsp;
+
 </div>
-
-###
-
-
