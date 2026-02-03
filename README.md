@@ -80,22 +80,12 @@
 ![WebSocket](https://img.shields.io/badge/-WebSocket-05122A?style=flat&logo=WebSocket)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=SpringBoot)&nbsp;
 ![mysql](https://img.shields.io/badge/-My_SQL-05122A?style=flat&logo=mysql)&nbsp;
-
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 
 <h3>[Tools]</h3>
 
-![VScode](https://img.shields.io/badge/-VScode-05122A?style=flat&logo=VScode)&nbsp;
-![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=Cursor)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)\
 ![ModelContextProtocol](https://img.shields.io/badge/-MCP-05122A?style=flat&logo=ModelContextProtocol)&nbsp;
-![GithubCopilot](https://img.shields.io/badge/-Github_Copilot-05122A?style=flat&logo=GithubCopilot)&nbsp;
-![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=Claude)&nbsp;
-![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=GoogleGemini)&nbsp;
-![Perplexity](https://img.shields.io/badge/-Perplexity-05122A?style=flat&logo=Perplexity)&nbsp;
-![Grok](https://img.shields.io/badge/-Grok-05122A?style=flat&logo=Grok)&nbsp;
-
 </div>
