@@ -10,46 +10,26 @@
   
   <br/>
 
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="120">
-        <strong>💎 Clean Code</strong>
-      </td>
-      <td>
-        나만 아는 코드가 아닌 동료가 읽기 쉬운 코드와 설명을 지향합니다.
-      </td>
+      <td width="180" style="border: none;"><strong>💎 Clean Code</strong></td>
+      <td style="border: none;">나만 아는 코드가 아닌 동료가 읽기 쉬운 코드와 설명을 지향합니다.</td>
     </tr>
     <tr>
-      <td align="center" width="120">
-        <strong>♻️ Sustainability</strong>
-      </td>
-      <td>
-        시간이 흐를수록 기술적 부채가 쌓이는 코드가 아닌 기술적 자산이 되는 구조를 설계합니다.
-      </td>
+      <td width="180" style="border: none;"><strong>♻️ Sustainability</strong></td>
+      <td style="border: none;">시간이 흐를수록 기술적 부채가 쌓이는 코드가 아닌 기술적 자산이 되는 구조를 설계합니다.</td>
     </tr>
     <tr>
-      <td align="center" width="120">
-        <strong>🔍 Deep Dive</strong>
-      </td>
-      <td>
-        새로운 기술의 '어떻게'보다 '왜'에 집중하며 원리를 이해하고 적용합니다.
-      </td>
+      <td width="180" style="border: none;"><strong>🔍 Deep Dive</strong></td>
+      <td style="border: none;">새로운 기술의 '어떻게'보다 '왜'에 집중하며 원리를 이해하고 적용합니다.</td>
     </tr>
     <tr>
-      <td align="center" width="120">
-        <strong>📚 Growth & Share</strong>
-      </td>
-      <td>
-        트러블슈팅 과정을 문서화하여 개인의 성장을 팀의 자산으로 전환합니다.
-      </td>
+      <td width="180" style="border: none;"><strong>📚 Growth & Share</strong></td>
+      <td style="border: none;">트러블슈팅 과정을 문서화하여 개인의 성장을 팀의 자산으로 전환합니다.</td>
     </tr>
     <tr>
-      <td align="center" width="120">
-        <strong>🔧 Refactoring</strong>
-      </td>
-      <td>
-        비즈니스 로직 분리와 모듈화를 통해 더 견고한 코드 베이스를 만드는 과정을 즐깁니다.
-      </td>
+      <td width="180" style="border: none;"><strong>🔧 Refactoring</strong></td>
+      <td style="border: none;">비즈니스 로직 분리와 모듈화를 통해 더 견고한 코드 베이스를 만드는 과정을 즐깁니다.</td>
     </tr>
   </table>
   
