@@ -20,16 +20,16 @@
       <td style="border: none;">시간이 흐를수록 기술적 부채가 쌓이는 코드가 아닌 기술적 자산이 되는 구조를 설계합니다.</td>
     </tr>
     <tr>
-      <td width="180" style="border: none;"><strong>🔍 Deep Dive</strong></td>
-      <td style="border: none;">새로운 기술의 '어떻게'보다 '왜'에 집중하며 원리를 이해하고 적용합니다.</td>
+      <td width="180" style="border: none;"><strong>🔧 Refactoring</strong></td>
+      <td style="border: none;">비즈니스 로직 분리와 모듈화를 통해 더 견고한 코드 베이스를 만드는 과정을 즐깁니다.</td>
+    </tr>
+    <tr>
+      <td width="180" style="border: none;"><strong>🔍 UX Deep Dive</strong></td>
+      <td style="border: none;">사용자가 마주하는 불편을 프론트엔드의 문제로 정의하고 해결합니다.</td>
     </tr>
     <tr>
       <td width="180" style="border: none;"><strong>📚 Growth & Share</strong></td>
       <td style="border: none;">트러블슈팅 과정을 문서화하여 개인의 성장을 팀의 자산으로 전환합니다.</td>
-    </tr>
-    <tr>
-      <td width="180" style="border: none;"><strong>🔧 Refactoring</strong></td>
-      <td style="border: none;">비즈니스 로직 분리와 모듈화를 통해 더 견고한 코드 베이스를 만드는 과정을 즐깁니다.</td>
     </tr>
   </table>
   
